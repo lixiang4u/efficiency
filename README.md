@@ -22,7 +22,7 @@
 
 
 
-## [license和key相关](https://github.com/lixiang4u/efficiency/blob/master/license-and-keys.md)
+## [license 和 key 相关](https://github.com/lixiang4u/efficiency/blob/master/license-and-keys.md)
 
 > + ```PhpStorm``` 的 ```license```
 
