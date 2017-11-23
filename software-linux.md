@@ -17,3 +17,12 @@
 [https://github.com/fatedier/frp](https://github.com/fatedier/frp) (反向代理，可将内网地址快速代理出去)
 
 
+## aMale
+
+> + 项目地址：[http://www.amule.org/](http://www.amule.org/)
+
+> + 支持 ```ed2k```  下载，当然爽啦，还能做种子
+
+> + 支持在线资源搜索
+
+
