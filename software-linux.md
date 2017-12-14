@@ -7,6 +7,8 @@
 
 > + 地址：[http://unetbootin.github.io/](http://unetbootin.github.io/)
 
+> + 使用```dd```命令刻录：```dd if=/path/to/file.iso of=/dev/sdb```，可用```fdisk -l```查看U盘是哪个设备块
+
 
 
 ## 内网穿透工具
