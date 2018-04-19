@@ -18,6 +18,7 @@
 
 [https://github.com/fatedier/frp](https://github.com/fatedier/frp) (反向代理，可将内网地址快速代理出去)
 
+[https://github.com/snail007/goproxy](https://github.com/snail007/goproxy)（代理工具，可以做很多东西）
 
 ## aMale
 
